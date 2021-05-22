@@ -1,0 +1,54 @@
+cards/generator/Deck.java
+ cards.generator.Deck
+cards/helpers/rules/RuleChecker.java
+ cards.helpers.rules.RuleChecker
+cards/algorithms/rules/pobladores/PobladoresPierdenContraTodosRegla.java
+ cards.algorithms.rules.pobladores.PobladoresPierdenContraTodosRegla
+cards/algorithms/rules/BaronesRules.java
+ cards.algorithms.rules.BaronesRules
+cards/algorithms/rules/PobladoresRules.java
+ cards.algorithms.rules.PobladoresRules
+cards/algorithms/rules/arquitectos/ArquitectosPierdenControPobladoresYBaronesRegla.java
+ cards.algorithms.rules.arquitectos.ArquitectosPierdenControPobladoresYBaronesRegla
+cards/generator/RandomCards.java
+ cards.generator.RandomCards
+cards/algorithms/rules/pobladores/PobladoresGananContraBaronesRegla.java
+ cards.algorithms.rules.pobladores.PobladoresGananContraBaronesRegla
+cards/algorithms/rules/barones/BaronesPierdenContraTodosRegla.java
+ cards.algorithms.rules.barones.BaronesPierdenContraTodosRegla
+cards/algorithms/rules/barones/BaronesGananContraDosGruposRegla.java
+ cards.algorithms.rules.barones.BaronesGananContraDosGruposRegla
+cards/algorithms/rules/pobladores/PobladoresGananContraDosGruposRegla.java
+ cards.algorithms.rules.pobladores.PobladoresGananContraDosGruposRegla
+cards/helpers/rules/Rule.java
+ cards.helpers.rules.Rule
+cards/generator/CardType.java
+ cards.generator.CardType
+cards/algorithms/rules/barones/BaronesPierdenContraPobladoresRegla.java
+ cards.algorithms.rules.barones.BaronesPierdenContraPobladoresRegla
+cards/algorithms/rules/LobosRules.java
+ cards.algorithms.rules.LobosRules
+cards/algorithms/rules/ArquitectosRules.java
+ cards.algorithms.rules.ArquitectosRules
+cards/helpers/parties/Party.java
+ cards.helpers.parties.Party
+cards/algorithms/rules/pobladores/PobladoresPierdenContraDosGruposRegla.java
+ cards.algorithms.rules.pobladores.PobladoresPierdenContraDosGruposRegla
+cards/algorithms/rules/barones/BaronesGananContraPobladoresRegla.java
+ cards.algorithms.rules.barones.BaronesGananContraPobladoresRegla
+cards/algorithms/rules/lobos/LobosPierdenControPobladoresYBaronesRegla.java
+ cards.algorithms.rules.lobos.LobosPierdenControPobladoresYBaronesRegla
+cards/algorithms/Algorithm1.java
+ cards.algorithms.Algorithm1
+cards/algorithms/rules/arquitectos/ArquitectosGananControPobladoresYBaronesRegla.java
+ cards.algorithms.rules.arquitectos.ArquitectosGananControPobladoresYBaronesRegla
+cards/Main.java
+ cards.Main
+cards/algorithms/rules/lobos/LobosGananControPobladoresYBaronesRegla.java
+ cards.algorithms.rules.lobos.LobosGananControPobladoresYBaronesRegla
+cards/algorithms/rules/barones/BaronesPierdenContraDosGruposRegla.java
+ cards.algorithms.rules.barones.BaronesPierdenContraDosGruposRegla
+cards/generator/Card.java
+ cards.generator.Card
+cards/algorithms/rules/pobladores/PobladoresPierdenContraBaronesRegla.java
+ cards.algorithms.rules.pobladores.PobladoresPierdenContraBaronesRegla
